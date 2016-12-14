@@ -1,6 +1,4 @@
-# MobileTerminalModule National Proxy
+# MobileTerminalModule 
 
-####Module description/purpose
-
-Mock proxy to show how the mobile terminal module can be integrated into existing systems. 
+See https://github.com/UnionVMS/UVMS-MobileTerminalModule-APP for more information
 
